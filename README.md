@@ -1,9 +1,10 @@
 # Precharger-Board
 ### Setup
-- Install PlatformIO on VS Code
+- Install PlatformIO extension on VS Code
 - Clone repository
-- Open folder through PlatformIO
-- BUILD
+- Open folder through PlatformIO (by clicking PIO bug icon on VScode left toolbar)
+- BUILD (click the check button on bottom left with label "PlatformIO: Build")
+- connect to ESP-32 and UPLOAD (click arrow button on bottom left with label "PlatformIO: Upload")
 
 or 
 
